@@ -1,0 +1,24 @@
+{
+  "name": "roninbot",
+  "version": "1.0.0",
+  "description": "Discord Bot di utility per gilde di Albion Online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bombaclath97/roninbot.git"
+  },
+  "author": "Bombaclath97",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bombaclath97/roninbot/issues"
+  },
+  "homepage": "https://github.com/Bombaclath97/roninbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "*"
+  }
+}
